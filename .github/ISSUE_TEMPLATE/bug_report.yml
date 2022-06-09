@@ -1,10 +1,11 @@
-name: This is a bug
-description: Tell me your bugs
+name: Bug Report
+description: File a bug report
 title: "[Bug]: "
-labels: [bug, triage]
-assignees:
-  - mishmanners
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
   - type: markdown
     attributes:
       value: |
